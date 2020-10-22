@@ -1,0 +1,10 @@
+{
+    "cliente": [
+        {
+            "id": 1,
+            "nome": "Gustavo Fiacador Dantas",
+            "cpf_cnpj": "08499107060",
+            "email": "gustavo@gmail.com"
+        }
+    ]
+}

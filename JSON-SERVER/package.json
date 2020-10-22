@@ -1,0 +1,23 @@
+{
+  "name": "JsonBackEndForTests",
+  "version": "1.0.0",
+  "description": "Um repostorio para um banco de testes consumindo em uma API JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json -- 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoFiacador/JsonBackEndForTests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoFiacador/JsonBackEndForTests/issues"
+  },
+  "homepage": "https://github.com/GustavoFiacador/JsonBackEndForTests#readme",
+  "dependencies": {
+    "json": "^10.0.0"
+  }
+}
