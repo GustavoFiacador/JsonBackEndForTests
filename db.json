@@ -1,10 +1,37 @@
 {
-    "cliente": [
-        {
-            "id": 1,
-            "nome": "Gustavo Fiacador Dantas",
-            "cpf_cnpj": "08499107060",
-            "email": "gustavo@gmail.com"
-        }
-    ]
+  "usuario": [
+    {
+      "id": 1,
+      "telefone": "",
+      "nome": "Gustavo Isxumes",
+      "email": "GustaDrunk@gmail.com",
+      "senha": "12345678",
+      "tipo_cliente": "PESSOA",
+      "cpf": "33973535051",
+      "cnpj": "",
+      "nome_empresa": ""
+    },
+    {
+      "nome": "Teste",
+      "telefone": "11188829282",
+      "email": "teste@gmail.com",
+      "senha": "teste",
+      "tipo_cliente": "",
+      "cpf": "",
+      "cnpj": "312329239293",
+      "nome_empresa": "Fantasia",
+      "id": 2
+    },
+    {
+      "nome": "Gustavo",
+      "telefone": "11945457219",
+      "email": "gfiacador@gmail.com",
+      "senha": "1123123123",
+      "tipo_cliente": "EMPRESA",
+      "cpf": "",
+      "cnpj": "7777777777",
+      "nome_empresa": "Guzta Store",
+      "id": 3
+    }
+  ]
 }
